@@ -1,0 +1,6 @@
+.classpath
+.project
+bin/calculadora/Calcula.class
+bin/calculadora/CalcularSalario.class
+bin/calculadora/CalculoPorcentagem.class
+bin/calculadora/Imprimir.class
